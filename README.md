@@ -1,6 +1,6 @@
 <!-- ✨ Enhanced GitHub Profile README - Mr.Ranshika ✨ -->
 
-<img width="100%" src="https://raw.githubusercontent.com/mrranshika/About-Me/main/banner.png" alt="Mr.Ranshika Banner"/>
+<img width="100%" src="https://raw.githubusercontent.com/mrranshika/mrranshika/main/banner.png" alt="Mr.Ranshika Banner"/>
 
 <br/>
 
@@ -176,9 +176,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrranshika/About-Me/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrranshika/About-Me/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mrranshika/About-Me/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrranshika/mrranshika/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrranshika/mrranshika/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mrranshika/mrranshika/output/github-snake-dark.svg" />
 </picture>
 
 </div>
