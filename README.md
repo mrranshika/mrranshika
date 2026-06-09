@@ -1,6 +1,6 @@
 <!-- ✨ Enhanced GitHub Profile README - Mr.Ranshika ✨ -->
 
-<img width="60%" src="https://raw.githubusercontent.com/mrranshika/About-Me/main/banner.png" alt="Mr.Ranshika Banner"/>
+<img width="100%" src="https://raw.githubusercontent.com/mrranshika/About-Me/main/banner.png" alt="Mr.Ranshika Banner"/>
 
 <br/>
 
