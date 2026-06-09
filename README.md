@@ -1,12 +1,12 @@
 <!-- ✨ Enhanced GitHub Profile README - Mr.Ranshika ✨ -->
 
-<img width="100%" src="https://i.imgur.com/FGwJGF6.png" alt="Mr.Ranshika Banner"/>
+<img width="100%" src="https://raw.githubusercontent.com/mrranshika/About-Me/main/banner.png" alt="Mr.Ranshika Banner"/>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Hey+there!+I'm+Mr.Ranshika+%F0%9F%91%8B;A+Passionate+Full-Stack+Developer+%F0%9F%92%BB;From+Sri+Lanka+%F0%9F%87%B1%E0%B7%80;Crafting+Digital+Experiences+with+Code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Hey+there!+I'm+Mr.Ranshika+%F0%9F%91%8B;A+Passionate+Frontend+Developer+%F0%9F%92%BB;From+Sri+Lanka+%F0%9F%87%B1%E0%B7%80;Crafting+Digital+Experiences+with+Code+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +21,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80§ion=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 ### 🧑‍💻 About Me
@@ -176,14 +176,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrranshika/mrranshika/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrranshika/mrranshika/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mrranshika/mrranshika/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrranshika/About-Me/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrranshika/About-Me/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mrranshika/About-Me/output/github-snake-dark.svg" />
 </picture>
 
 </div>
-
-> 💡 *Snake animation automatically generates from your contributions! Setup [this workflow](https://github.com/Platane/snk) in your repo.*
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -258,7 +256,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80§ion=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
 <div align="center">
