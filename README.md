@@ -1,5 +1,5 @@
 <!-- ![Banner](https://raw.githubusercontent.com/mrranshika/mrranshika/main/banner.png) -->
-<img width="100%" src="https://i.imgur.com/FGwJGF6.png" alt="Mr.Ranshika Banner"/>
+<img width="75%" hight="55%" src="https://i.imgur.com/FGwJGF6.png" alt="Mr.Ranshika Banner"/>
 
 <div align="center">
 
