@@ -146,12 +146,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrranshika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrranshika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&langs_count=10" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrranshika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrranshika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&langs_count=10" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mrranshika&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" alt="Streak Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=mrranshika&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" alt="Streak Stats"/>
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrranshika&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Repos per Language"/>
 </div>
 
@@ -161,12 +161,16 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Stats Cards
 
 <div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrranshika&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats Summary"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrranshika&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Commit Language"/>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrranshika&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrranshika&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Productive Time"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrranshika&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Profile Details"/>
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
@@ -183,14 +187,16 @@
 
 </div>
 
+> 💡 *Snake animation will appear after setting up the [workflow](https://github.com/Platane/snk) in your repo. Click Actions → Generate Snake → Run workflow.*
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ### 🚀 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrranshika&repo=Car_Rental&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E)](https://github.com/mrranshika/Car_Rental)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrranshika&repo=wedabime-pramukayo-crm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E)](https://github.com/mrranshika/wedabime-pramukayo-crm)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mrranshika&repo=Car_Rental&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E)](https://github.com/mrranshika/Car_Rental)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mrranshika&repo=wedabime-pramukayo-crm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E)](https://github.com/mrranshika/wedabime-pramukayo-crm)
 
 </div>
 
