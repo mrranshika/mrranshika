@@ -56,7 +56,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/mrranshika/mrranshika/main/dev-avatar.png" width="85%" alt="Dev Avatar"/>
+<img src="https://raw.githubusercontent.com/mrranshika/About-Me/main/dev-avatar.png" width="85%" alt="Dev Avatar"/>
 
 </td>
 </tr>
