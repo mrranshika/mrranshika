@@ -51,7 +51,7 @@
 - 👨‍💻 Explore my work at [ZipcartCo Portfolio](https://www.zipcartco.site/portfolio/)
 - 📫 Reach me at **mrranshika@gmail.com** / **zipcartco@gmail.com**
 - 💡 Philosophy: **"I like to learn with experience"**
-- 🎯 2024 Goal: Contribute more to **open source**
+- 🎯 2026 Goal: Contribute more to **open source**
 
 </td>
 <td width="45%" align="center">
@@ -189,7 +189,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrranshika&repo=SMS-for-Individual-Teachers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E)](https://github.com/mrranshika/SMS-for-Individual-Teachers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrranshika&repo=Car_Rental&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E)](https://github.com/mrranshika/Car_Rental)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrranshika&repo=wedabime-pramukayo-crm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=8B949E)](https://github.com/mrranshika/wedabime-pramukayo-crm)
 
 </div>
 
