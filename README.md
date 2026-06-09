@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Mr.Ranshika+%F0%9F%91%8B;A+Passionate+Frontend+Developer+%F0%9F%92%BB;From+Sri+Lanka+%F0%9F%87%B1%E0%B7%80+%F0%9F%87%B1%E0%B7%80)](https://git.io/typing-svg)
 
 </div>
-
+<br><br><br>
 ---
 
 ### 👨‍💻 About Me
